@@ -1,0 +1,34 @@
+#col1{
+    border: 2px solid rgb(12, 12, 12);
+    height: 100%;
+   background-color: rgb(37, 14, 100);
+   color:aliceblue;
+}
+#name{
+    color: aliceblue;
+   font-style: initial;
+   font-size: xx-large;
+}
+}
+#row1{
+    font-size: 20px;
+}
+#row2{
+    font-size: medium;
+    background-color: rgb(7, 7, 63);
+}
+#addr{
+    font-size: 15px;
+}
+#area{
+    font-size:11px;
+}
+#skill{
+    font-size: small;
+}
+#col2{
+   
+    height: 100%;
+   background-color: white;
+   color:rgb(8, 8, 8);
+}
