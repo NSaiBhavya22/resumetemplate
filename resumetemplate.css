@@ -3,11 +3,16 @@
     height: 100%;
    background-color: rgb(37, 14, 100);
    color:aliceblue;
+   width: 7cm;
+}
+#row1{
+    padding-bottom: 10px;
 }
 #name{
     color: aliceblue;
    font-style: initial;
    font-size: xx-large;
+   padding-top: 10px;
 }
 }
 #row1{
@@ -16,12 +21,13 @@
 #row2{
     font-size: medium;
     background-color: rgb(7, 7, 63);
+    padding-left: 10px;
 }
 #addr{
     font-size: 15px;
 }
 #area{
-    font-size:11px;
+    font-size:13px;
 }
 #skill{
     font-size: small;
@@ -31,4 +37,10 @@
     height: 100%;
    background-color: white;
    color:rgb(8, 8, 8);
+   width: 15cm;
+   
+}
+h5{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
