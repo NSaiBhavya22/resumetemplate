@@ -1,0 +1,50 @@
+#row1{
+    color: aliceblue;   
+    background-color: rgb(38, 6, 180);
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 28cm;
+}
+#col1{
+    color: rgb(2, 2, 14);   
+    background-color: white;
+    font-size: 19px;
+    padding-top: 20px;
+    height: 100%;
+}
+#col2{
+    color: rgb(2, 2, 14);   
+    background-color: white;
+    font-size: 19px;
+    padding-top: 20px;
+   
+    height: 100%;
+    
+}
+#heading1{
+    font-size: large;
+    border-top: 2px solid black;
+    font-weight: bold;
+    padding-top: 7px;
+}
+#mobile{
+    font-size: small;
+    padding-left: 12px;
+}
+#edu{
+    padding-left: 12px;
+    font-size: 15px;
+}
+h6{
+    font-size: larger;
+    padding-top: 5px;
+    
+}
+h5{
+    font-size: x-large;
+}
+#heading2{
+    font-size: 15px;
+    font-weight:800;
+}
